@@ -37,6 +37,8 @@ This project is part of a learning for Data Science in [Excelr]([https://rakamin
 
 Member | Email | LinkedIn |
 | --- | --- | --- |
-| **Our Mentor: Neha Ramchandani** | nehar@gmail.com | - |
-| **Omkar Bahgwat** | ombhagwat24@gmail.com | [linkedin](https://www.linkedin.com/in/omkar-bhagwat-64b103230) |
-| **Yogita Mishra** | yogitamishra@gmail.com |[linkedin](https://in.linkedin.com/in/yogita-mishra-8487b5161?trk=people-guest_people_search-card) |
+| **Our Mentor: Neha Ramchandani** | [💌](nehar@gmail.com) | [👾]() |
+| **Omkar Bahgwat** | [💌](ombhagwat24@gmail.com) | [🤗](https://www.linkedin.com/in/omkar-bhagwat-64b103230) |
+| **Yogita Mishra** | [💌](yogitamishra@gmail.com) |[😄](https://in.linkedin.com/in/yogita-mishra-8487b5161?trk=people-guest_people_search-card) |
+| **Chitravi Angane** | [💌](Chitraviangane@gmail.com) | [😎](https://www.linkedin.com/in/omkar-bhagwat-64b103230](https://in.linkedin.com/in/chaitravi-angane-a83a9323b)) |
+| **Mininath Nighot** | [💌](mininathnighot@gmail.com) | [😇](https://www.linkedin.com/in/omkar-bhagwat-64b103230)|
