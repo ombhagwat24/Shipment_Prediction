@@ -48,4 +48,3 @@ Member | Email | LinkedIn |
 | **Omkar Bhagwat** | [💌](https://mail.google.com/mail/mu/mp/607/#co) | [🤗](https://www.linkedin.com/in/omkar-bhagwat-64b103230) |
 | **Yogita Mishra** | [💌](yogitamishra@gmail.com) |[😄](https://in.https://mail.google.com/mail/mu/mp/607/ombhagwat24@gmail.com) | linkedin.com/in/yogita-mishra-8487b5161?trk=people-guest_people_search-card) |
 | **Chitravi Angane** | [💌](anganechaitra718@gmail.com) | [😎](https://in.linkedin.com/in/chaitravi-angane-a83a9323b) |
-| **Mininath Nighot** | [💌](mininathnighot@gmail.com) | [😇](https://www.linkedin.com/in/omkar-bhagwat-64b103230)|
