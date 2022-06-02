@@ -17,7 +17,7 @@ Create a model to predict the shipment arrival; so that the company knows which 
 <img align="left" width=47%  src="https://user-images.githubusercontent.com/94888819/171611094-cf86cec5-4cc0-4e53-8b4d-cb670718b14d.jpg" alt="gender" />
 
 ## 4.`data correlation`  
-<img align="right" width=47%  src="https://user-images.githubusercontent.com/94888819/171611769-5e8bd9c8-c72e-4472-8964-15c95bf34184.jpg" alt="corr" />
+<img align="right" width=47% src="https://user-images.githubusercontent.com/94888819/171622616-38eb1a41-88a6-40c7-aa5f-e0a5d01a0373.jpg" alt="corre" />
 
 ## 5.`Product importance` 
 <img width="500" src="https://user-images.githubusercontent.com/94888819/171612209-7e2d86bd-4242-48c1-ba0d-4c997ca7f0e4.jpg" alt="important" />
