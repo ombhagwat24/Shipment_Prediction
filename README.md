@@ -46,5 +46,5 @@ Member | Email | LinkedIn |
 | --- | --- | --- |
 | **Mentor: Neha Ramchandani** | [💌](nehar@gmail.com) | [☺️]() |
 | **Omkar Bhagwat** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMSqpLlKHdJncbTZTdtLhpXqgQSwHCFpfrjfZtHKSSfSsbndnmvKSTbBncQRzXzfTqwgKn) | [🤗](https://www.linkedin.com/in/omkar-bhagwat-64b103230) |
-| **Yogita Mishra** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqLRFszLcsmmlCThKhwwtPfgTksfpBHzXLnnwjJkSbwStDZHKDMrTdHZPZHrppSzWCZL) |[😄](linkedin.com/in/yogita-mishra-8487b5161?trk=people-guest_people_search-card) |
+| **Yogita Mishra** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqLRFszLcsmmlCThKhwwtPfgTksfpBHzXLnnwjJkSbwStDZHKDMrTdHZPZHrppSzWCZL) |[😄](https://in.linkedin.com/in/yogita-mishra-8487b5161?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F) |
 | **Chitravi Angane** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😎](https://in.linkedin.com/in/chaitravi-angane-a83a9323b) |
