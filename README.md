@@ -44,7 +44,7 @@ Create a model to predict the shipment arrival; so that the company knows which 
 
 Member | Email | LinkedIn |
 | --- | --- | --- |
-| **Mentor: Neha Ramchandani** | [💌](nehar@gmail.com) | [☺️]() |
+| **Mentor: Neha Ramchandani** | [💌](nehar@gmail.com) | [☺️](https://www.linkedin.com/in/neha-p-a0b36a71/) |
 | **Omkar Bhagwat** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMSqpLlKHdJncbTZTdtLhpXqgQSwHCFpfrjfZtHKSSfSsbndnmvKSTbBncQRzXzfTqwgKn) | [🤗](https://www.linkedin.com/in/omkar-bhagwat-64b103230) |
 | **Yogita Mishra** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqLRFszLcsmmlCThKhwwtPfgTksfpBHzXLnnwjJkSbwStDZHKDMrTdHZPZHrppSzWCZL) |[😄](https://in.linkedin.com/in/yogita-mishra-8487b5161?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F) |
 | **Chitravi Angane** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😎](https://in.linkedin.com/in/chaitravi-angane-a83a9323b) |
