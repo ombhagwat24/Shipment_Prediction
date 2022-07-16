@@ -40,7 +40,7 @@ Create a model to predict the shipment arrival; so that the company knows which 
 <img width=700 src="https://user-images.githubusercontent.com/94888819/171617394-f5961351-5a31-456f-933c-10d5e973b036.png" alt="delayed" />
 
 ## `Group Members`
-</br>This project is part of a learning for Data Science in [Excelr](https://learn.excelr.com/login)
+</br>This project is part of Data Science internship in [Excelr](https://learn.excelr.com/login)
 
 Member | Email | LinkedIn |
 | --- | --- | --- |
